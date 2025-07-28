@@ -28,3 +28,21 @@ This is my final project for BST209: Machine Learning in Healthcare.
 # Basic summary
 summary(data)
 ```
+
+# Project Overview
+   
+## Research Question
+   
+[Describe your research question here]
+   
+## Data Source
+   
+[Describe your data source here]
+   
+## Methods
+   
+[Describe your planned methods here]
+   
+## Expected Outcomes
+   
+[Describe what you expect to find]
