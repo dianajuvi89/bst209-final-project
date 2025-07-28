@@ -1,0 +1,30 @@
+---
+title: "BST209 Project"
+author: "Diana Juvinao-Quintero"
+date: "7/28/2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Add Content:**
+
+# Introduction
+   
+This is my final project for BST209: Machine Learning in Healthcare.
+   
+## Data Analysis
+   
+```{r, eval=FALSE}
+ # Your R code goes here
+ library(tidyverse)
+   
+ # Load data
+ data <- read.csv("your_data.csv")
+   
+# Basic summary
+summary(data)
+```
