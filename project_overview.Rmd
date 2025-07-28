@@ -10,8 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-**Add Content:**
-
 # Introduction
    
 This is my final project for BST209: Machine Learning in Healthcare.
@@ -46,3 +44,5 @@ summary(data)
 ## Expected Outcomes
    
 [Describe what you expect to find]
+
+
